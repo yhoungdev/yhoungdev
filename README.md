@@ -3,7 +3,7 @@
 [1]: https://twitter.com/obiabo_immanuel
 
 ###### I am Obiabo Immanuel a developer from Nigeria i create simple web applications 
-###### Music addict | Open source contributer
+###### Music addict | developer | Open source contributer
 #### Languages
 ###### HTML 
 ###### CSS
