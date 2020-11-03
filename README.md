@@ -19,7 +19,7 @@
 
 ![](https://img.shields.io/badge/🥁-Drummer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/💻-Drummer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/🖨️-Screan printer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
 
 #### Works at 
 #####  🔭 FX Global Tech ICTs
