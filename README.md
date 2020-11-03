@@ -3,7 +3,7 @@
 [1]: https://twitter.com/obiabo_immanuel
 
 ###### I am Obiabo Immanuel a developer from Nigeria i create simple web applications 
-###### Music addict
+###### Music addict | Open source contributer
 #### Languages
 ###### HTML 
 ###### CSS
@@ -20,9 +20,6 @@
 ![](https://img.shields.io/badge/🥁-Drummer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/💻-Drummer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-
-#### Works at 
-#####  🔭 FX Global Tech ICTs
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoungdev)](https://github.com/anuraghazra/github-readme-stats)
