@@ -24,7 +24,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoungdev)](https://github.com/anuraghazra/github-readme-stats)
 
-####works as a developer @ fxglobalTechIcts
+#### works as a developer@ fxglobalTechIcts
 
 <!--
 **yhoungdev/yhoungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
