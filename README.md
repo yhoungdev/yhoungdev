@@ -3,7 +3,7 @@
 [1]: https://twitter.com/obiabo_immanuel
 
 ###### I am Obiabo Immanuel a developer from Nigeria i create simple web applications 
-###### Music addict | developer | Open source contributer
+###### Joker | Music addict | developer | Open source contributor
 #### Languages
 ###### HTML 
 ###### CSS
@@ -24,12 +24,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoungdev)](https://github.com/anuraghazra/github-readme-stats)
 
+####works as a developer @ fxglobalTechIcts
 
 <!--
 **yhoungdev/yhoungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:jkh
-
 - 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
