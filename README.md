@@ -18,7 +18,7 @@
 #### skills
 
 ![](https://img.shields.io/badge/🥁-Drummer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/💻-Drummer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/💻-Programmer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&theme=radical)
