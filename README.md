@@ -4,18 +4,7 @@
 
 ###### I am Obiabo Immanuel a developer from Nigeria i create simple web applications 
 ###### Human | Music addict | developer | Open source contributor
-#### Languages
-###### HTML 
-###### CSS
-###### Javascript 
 
-#### Framework / Libraries
-###### jQuery
-###### Bootstrap
-###### React.js
-###### code4mom.js
-   ### Tools 
-###### git
 
 #### skills
 
