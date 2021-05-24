@@ -1,4 +1,4 @@
-![alt text](https://www.domstamand.com/wp-content/uploads/2016/12/avatar1.jpg)
+
 ### Hi Dear<img src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif" width="60px">
 [1]: https://twitter.com/obiabo_immanuel
 
