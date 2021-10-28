@@ -5,6 +5,8 @@
 ###### I am Obiabo Immanuel a developer from Nigeria i create simple web applications 
 ###### Human | Music addict | developer | Open source contributor
 
+https://api.daily.dev/devcards/7ef3afdb540a4cd0a2515993387da635.png?r=ih3
+
 
 #### skills
 
