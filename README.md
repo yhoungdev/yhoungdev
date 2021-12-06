@@ -3,7 +3,7 @@
 [1]: https://twitter.com/obiabo_immanuel
 
 ###### I am Obiabo Immanuel a developer from Nigeria i create simple web applications 
-###### Human | Music addict | developer | Open source contributor
+###### **** Designer  | Music addict | developer | Open source contributor****
 
 <img src="https://api.daily.dev/devcards/7ef3afdb540a4cd0a2515993387da635.png?r=ih3"/>
 
@@ -17,7 +17,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoungdev)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[Wakatime Week Stats](#wakatime-week-stats)
 
 <!--
 **yhoungdev/yhoungdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
