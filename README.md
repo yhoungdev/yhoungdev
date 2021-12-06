@@ -2,8 +2,9 @@
 ### Hi Dear<img src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif" width="60px">
 [1]: https://twitter.com/obiabo_immanuel
 
-###### I am Obiabo Immanuel a developer from Nigeria i create simple web applications 
-###### **** Designer  | Music addict | developer | Open source contributor****
+###### I am Obiabo Immanuel a front end developer and a UI|UX Developer 
+ 
+Designer  | Music addict | developer | Open source contributor 
 
 <div style='display:flex'>
     
