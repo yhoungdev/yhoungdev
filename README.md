@@ -1,10 +1,35 @@
 
-### Hi Dear<img src="https://media1.tenor.com/images/b9371273ae94a946e92074d1b9696680/tenor.gif" width="60px">
-[1]: https://twitter.com/obiabo_immanuel
+# Hi, I'm Obiabo Immanuel ! 👋
 
-###### I am Obiabo Immanuel a front end developer and a UI|UX Developer 
- 
-Designer  | Music addict | developer | Open source contributor 
+Front End Developer | UI/UX Designer 
+
+
+## 🚀 About Me
+I am Obiabo Immanuel a quality oriented front end developer and a UI|UX Designer
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://obiabo.xyz)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obiabo-immanuel-5a66371aa/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obiabo_immanuel)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## Common
+👩‍💻 I'm currently a freelancer ...
+
+
+👯‍♀️ I'm looking to collaborate with like minded people
+
+
+
+
+## Tech Stack
+
+**Client:** 
 
 <div style='display:flex'>
     
