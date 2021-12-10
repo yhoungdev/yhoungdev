@@ -67,3 +67,10 @@ Javascript, HTML, CSS...
 
 
 </p>
+
+<codersrank-skills-chart
+  username="yhoungdev"
+  labels
+  legend
+  tooltip
+></codersrank-skills-chart>
