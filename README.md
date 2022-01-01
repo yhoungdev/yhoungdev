@@ -49,7 +49,7 @@ Javascript, HTML, CSS...
   
  </div>
 
-<img src="https://api.daily.dev/devcards/7ef3afdb540a4cd0a2515993387da635.png?r=ih3"/>
+
 
 
 #### skills
