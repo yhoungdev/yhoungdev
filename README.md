@@ -1,11 +1,11 @@
 
 # Hi, I'm Obiabo Immanuel ! 👋
 
-Front End Developer | UI/UX Designer 
+Front End Developer
 
 
 ## 🚀 About Me
-I am Obiabo Immanuel a quality oriented front end developer and a UI|UX Designer
+I am Zoe
 
 
 ## 🔗 Links
