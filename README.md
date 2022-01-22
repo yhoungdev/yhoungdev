@@ -31,6 +31,8 @@ and beautiful interface for both individuals and firms
 👩‍💻 I'm currently a freelancer ...
 
 
+<p dir="auto"><a href="https://github.com/yhoungdev"><img src="https://camo.githubusercontent.com/9b1d2cdd9c8f9a5a56586d83716c4fcad00a932e4fd63e5024b23edcb77c981e/68747470733a2f2f61637469766974792d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d466f7469654d436f6e7374616e74267468656d653d78636f6465" alt="fotiecodes's github activity graph" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=FotieMConstant&amp;theme=xcode" style="max-width: 100%;"></a></p>
+
 👯‍♀️ I'm looking to collaborate with like minded people
 
 
