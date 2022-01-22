@@ -30,7 +30,7 @@ and beautiful interface for both individuals and firms
 ## Common
 👩‍💻 I'm currently a freelancer ...
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=yhoungdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 👯‍♀️ I'm looking to collaborate with like minded people
