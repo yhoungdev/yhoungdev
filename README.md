@@ -1,11 +1,12 @@
 
 # Hi, I'm Obiabo Immanuel ! 👋
 
-Front End Developer
+Front End Developer | Open Source | Linux Advocate 
 
 
 ## 🚀 About Me
-I am Zoe
+I am Zoe, I create user friendly, user centered 
+and beautiful interface for both individuals and firms 
 
 
 ## 🔗 Links
@@ -14,8 +15,16 @@ I am Zoe
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obiabo_immanuel)
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+## 🛠 Languages 
+##### HTML
+##### CSS
+##### Javscript
+
+## Frameworks/Library
+#### React
+#### Tailwind
+#### Bootstrap
+#### SCSS
 
 
 ## Common
@@ -50,13 +59,6 @@ Javascript, HTML, CSS...
  </div>
 
 
-
-
-#### skills
-
-![](https://img.shields.io/badge/🥁-Drummer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/💻-Programmer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
-![](https://img.shields.io/badge/💻-Engineer-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoungdev)](https://github.com/anuraghazra/github-readme-stats)
