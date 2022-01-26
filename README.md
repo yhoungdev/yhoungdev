@@ -1,76 +1,28 @@
+###### Hello 👋,I am Obiabo Immanuel 
 
-# Hi, I'm Obiabo Immanuel ! 👋
+##### Christ Follow | Frontend Developer | UI/UX Designer | Open Source Lover |Linux Advocate
 
-Front End Developer | Open Source | Linux Advocate 
-
-
-## 🚀 About Me
-I am Zoe, I create user friendly, user centered 
-and beautiful interface for both individuals and firms 
+🚀🚀🚀🚀
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://obiabo.xyz)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obiabo-immanuel-5a66371aa/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/obiabo_immanuel)
+## 🌐Socials
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yhoungdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obiabo-immanuel-5a66371aa/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12059525/ejeh-obiaob-emmaneul) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/obiabo_immanuel) 
 
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=yhoungdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yhoungdev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoungdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠 Languages 
-##### HTML
-##### CSS
-##### Javscript
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=yhoungdev&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
-## Frameworks/Library
-#### React
-#### Tailwind
-#### Bootstrap
-#### SCSS
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-## Common
-👩‍💻 I'm currently a freelancer ...
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yhoungdev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-👯‍♀️ I'm looking to collaborate with like minded people
-
-
-
-
-## Tech Stack
-
-**Client:** 
-
-<div style='display:flex'>
-    
-    
-<img alt="React" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&amp;logo=react&amp;logoColor=white" style="max-width: 100%;">
-  
-<img alt="git" src="https://camo.githubusercontent.com/561f3d4fd727fcca82984c91a65eca069ff34a435072158f6947c4ca52370eae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" style="max-width: 100%;">
-  
- <img alt="npm" src="https://camo.githubusercontent.com/1e50ab849e8c196ea962ac3b966a15924234879eeb85f9dd0e0431e43a145b43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e504d2d4342333833373f7374796c653d666c61742d737175617265266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" style="max-width: 100%;">
-
-<img alt="html5" src="https://camo.githubusercontent.com/0c3a16a22ae058cfe38a06dc9ea16404cf006409262f547c9ccfa3ec8b30f71e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;">
-  
-  
- <img alt="Brave browser" src="https://camo.githubusercontent.com/a5585e9bff665613a2eb952d5a6beba60fc7d1d7e362233bf266b1a01c767ad6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d42726176655f42726f777365722d4642353432423f7374796c653d666c61742d737175617265266c6f676f3d6272617665266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&amp;logo=brave&amp;logoColor=white" style="max-width: 100%;">
-  
-
-  
- </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yhoungdev&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=000000)](https://git.io/streak-stats)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yhoungdev)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-</p>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yhoungdev&bg_color=000000&color=ffffff&line=f4c415&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+---
+![](https://komarev.com/ghpvc/?username=yhoungdev&label=Visitors+Count&color=brightgreen)
