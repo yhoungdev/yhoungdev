@@ -26,3 +26,6 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=yhoungdev&label=Visitors+Count&color=brightgreen)
+
+<img src="https://github.com/kr-anurag/yhoungdev/blob/output/github-contribution-grid-snake.gif" />
+
