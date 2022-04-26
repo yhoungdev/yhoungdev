@@ -1,6 +1,6 @@
-###### Hello 👋,I am Obiabo Immanuel 
+###### Hello 👋, I am Obiabo Immanuel 
 
-##### Christ Follow | Frontend Developer | UI/UX Designer | Open Source Lover | Roller Bladder | Linux Advocate
+##### Christ Follower | Frontend Developer | UI/UX Designer | Open Source Lover | Roller Bladder | Linux Advocate
 
 🚀🚀🚀🚀
 
