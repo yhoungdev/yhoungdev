@@ -1,6 +1,10 @@
 ###### Hello 👋,I am Obiabo Immanuel 
 
-##### Christ Follow | Frontend Developer | UI/UX Designer | Open Source Lover | Roller Bladder | Linux Advocate
+<p>
+  Quality-oriented Frontend developer and Open Source contributor with experience of new web technologies with proven problem solving and research    skill, creating user centered designs and mobile friendly interface and colaborating with team members to bring ideas to live.
+Bringing changes to the tech ecosystem through Open Source Contributions.
+  
+</p>
 
 🚀🚀🚀🚀
 
