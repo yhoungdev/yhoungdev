@@ -1,7 +1,7 @@
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Sudo Whoam I ( Obiabo Immanuel)
 ====================================================================================================================================
 
-Christ Follower | Frontend Engineer | Opensource Contributor
+Christ Follower | Frontend Engineer | Opensource Contributor | Linux Advocate 
 ------------------------------------------------------------
 
 I bring applications and designs to live with ReactJs , Typescript and Astro.build . Contributing to the tech ecosystem with Opensource , because the Future is Open, I live in the Linux env
