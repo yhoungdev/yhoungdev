@@ -1,5 +1,8 @@
  
- <img src='https://res.cloudinary.com/dhkccnvyn/image/upload/v1661089000/spray_code_vrkspt.jpg' alt='...'/>
+ 
+   <img style='display:flex; justify-content:center' width='60%' height='50%' src='https://res.cloudinary.com/dhkccnvyn/image/upload/v1661089000/spray_code_vrkspt.jpg' alt='...'/>
+
+
  
  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Sudo Whoam I ( Obiabo Immanuel)
 ====================================================================================================================================
@@ -7,14 +10,18 @@
 Christ Follower | Frontend Engineer | Opensource Contributor | Linux Advocate 
 ------------------------------------------------------------
 
-I bring applications and designs to live with ReactJs , Typescript and Astro.build . Contributing to the tech ecosystem with Opensource , because the Future is Open, I live in the Linux env
+I bring applications and designs to live with ReactJs , Typescript and Astro.build . Contributing to the tech ecosystem with Opensource , because the Future is Open, I live in the Linux env, when am bored i solve CAPCHTA and go for skating 🛼
 
 * 🌍  I'm based in 127.0.0.1
-* ⚡  Linux Fanboy
+* ⚡  Linux Fanboy 
 
 <a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
-/></a><a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
+/></a>
+
+
+
+<a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yhoungdev?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a><a href="https://www.twitch.tv/obiabo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/obiabo?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=181824&label=TWITCH+STATUS" /></a>
 
