@@ -7,7 +7,7 @@
 Christ Follower | Frontend Engineer | Opensource Contributor | Linux Advocate 
 ------------------------------------------------------------
 
-I bring applications and designs to live with ReactJs , Typescript and Astro.build . Contributing to the tech ecosystem with Opensource , because the Future is Open, I live in the Linux env, when am bored i solve CAPCHTA and go for skating 🛼
+Creating magic with Javascript , Typescript and Rust 
 
 * 🌍  I'm based in 127.0.0.1
 * ⚡  Linux Fanboy 
@@ -21,26 +21,6 @@ src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=f
 <a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yhoungdev?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a><a href="https://www.twitch.tv/obiabo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/obiabo?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=181824&label=TWITCH+STATUS" /></a>
-<!-- 
-#### Achievments 
-
-<table>
-<tr>
-
-
-<td align="center"><a><img src="https://user-images.githubusercontent.com/62628408/168408907-89113177-bbde-4a97-95b6-8e942679ca60.png" width="90px"></a></td>
-<td align="center"><a ><img src="https://user-images.githubusercontent.com/62628408/168408946-8b222b35-4732-4fc7-bc2b-5584c5aafbae.png" width="90px"></a></td>
-
-<td align="center"><a href="https://aviyel.com/@obiabo" title="Early Adopter"><img src="https://user-images.githubusercontent.com/62628408/171622741-81ba6517-8dbd-4da1-ae30-f164e7e920b4.png" width="90px"></a></td></a>
-</a>
-<td align="center"><a href="https://aviyel.com/@obiabo" title="Open Source Contributor"><img src="https://user-images.githubusercontent.com/62628408/171622761-6430db9c-1f91-4093-8d17-ae51b09c7662.png" width="90px"></a></td></a>
-
-</tr>
-
-
-</table> -->
-
-
 
 ### Socials
 
