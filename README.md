@@ -7,10 +7,12 @@
 Christ Follower | Frontend Engineer | Opensource Contributor | Linux Advocate 
 ------------------------------------------------------------
 
-Creating magic with Javascript , Typescript and Rust 
+WHOAMI
 
 * 🌍  I'm based in 127.0.0.1
 * ⚡  Linux Fanboy 
+* Currenntly learning Rust 
+* I create magics with React , Typescript , Next.Js and EthersJs
 
 <a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
