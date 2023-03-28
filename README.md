@@ -14,6 +14,15 @@ WHOAMI
 * Currenntly learning Rust 
 * I create magics with React , Typescript , Next.Js and EthersJs
 
+####INTEREST
+
+* Nostr
+* Bitcoin
+* Physics 
+* Decentralized internet 
+* Disttributed Systems 
+
+
 <a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=for-the-badge&color=22c55e&labelColor=181824"
 /></a>
