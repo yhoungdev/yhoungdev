@@ -14,13 +14,13 @@ WHOAMI
 * Currenntly learning Rust 
 * I create magics with React , Typescript , Next.Js and EthersJs
 
-####INTEREST
+#### INTEREST
 
 * Nostr
 * Bitcoin
 * Physics 
 * Decentralized internet 
-* Disttributed Systems 
+* Distributed Systems 
 
 
 <a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img
@@ -29,14 +29,12 @@ src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=f
 
 
 
-<a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
+<!-- <a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yhoungdev?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a><a href="https://www.twitch.tv/obiabo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/obiabo?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=181824&label=TWITCH+STATUS" /></a>
 
-### Socials
+></a></p> -->
 
-<!-- <p align="left"> <a href="https://www.behance.com/yhoungdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://discord.com/users/obiabo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://@Obiabo.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/obiabo-immanuel-5a66371aa/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/ejeh-obiaob-emmaneul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/obiabo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
- -->
 ### Badges
 
 <b>My GitHub Stats</b>
