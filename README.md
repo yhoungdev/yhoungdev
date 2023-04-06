@@ -11,7 +11,6 @@ WHOAMI
 
 * 🌍  I'm based in 127.0.0.1
 * ⚡  Linux Fanboy 
-* Currenntly learning Rust 
 * I create magics with React , Typescript , Next.Js and EthersJs
 
 #### INTEREST
@@ -19,6 +18,7 @@ WHOAMI
 * Nostr
 * Bitcoin
 * Physics 
+* Linux
 * Decentralized internet 
 * Distributed Systems 
 
