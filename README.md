@@ -8,9 +8,7 @@
 
 WHOAMI
 
-* 🌍  I'm based in 127.0.0.1
-* ⚡  Linux Fanboy 
-* I create magics with React , Typescript , Next.Js and EthersJs
+I make magic with code 🪄
 
 #### INTEREST
 
