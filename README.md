@@ -10,6 +10,14 @@ WHOAMI
 
 I make magic with code 🪄
 
+#### WHAT I DO IN MY FREE TIMES
+* During my freetime I research about Bitcoin ₿ and play with raspberry pi ( setting up personal server ) 
+* Contribute to Open Source
+* Look for Bounties
+* Do some linux distro hopping 
+* I Read books 📚
+  
+
 #### INTEREST
 
 * Nostr
@@ -17,7 +25,10 @@ I make magic with code 🪄
 * Physics 
 * Linux
 * Decentralized internet 
-* Distributed Systems 
+* Distributed Systems
+
+#### NOSTR PUBKEY 🔑
+npub143zs0f3d2qurmdktxv9lwjej6wgfvqflsumer23jwa0dsdjqd26qypr9fz
 
 
 <a href="https://www.twitter.com/obiabo_immanuel " target="_blank" rel="noreferrer"><img
