@@ -10,6 +10,9 @@ WHOAMI
 
 I make magic with code 🪄
 
+I Dable with 
+Javascript ( Next, React, Astro, Node, Express ), Typescript, Bash and Little of Rust 
+
 #### WHAT I DO IN MY FREE TIMES
 * During my freetime I research about Bitcoin ₿ and play with raspberry pi ( setting up personal server ) 
 * Contribute to Open Source
