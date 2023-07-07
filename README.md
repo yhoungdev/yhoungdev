@@ -13,22 +13,7 @@ I make magic with code 🪄
 I Dable with 
 Javascript ( Next, React, Astro, Node, Express ), Typescript, Bash and Little of Rust 
 
-#### WHAT I DO IN MY FREE TIMES
-* During my freetime I research about Bitcoin ₿ and play with raspberry pi ( setting up personal server ) 
-* Contribute to Open Source
-* Look for Bounties
-* Do some linux distro hopping 
-* I Read books 📚
-  
 
-#### INTEREST
-
-* Nostr
-* Bitcoin
-* Physics 
-* Linux
-* Decentralized internet 
-* Distributed Systems
 
 #### NOSTR PUBKEY 🔑
 npub143zs0f3d2qurmdktxv9lwjej6wgfvqflsumer23jwa0dsdjqd26qypr9fz
@@ -40,11 +25,11 @@ src="https://img.shields.io/twitter/follow/obiabo_immanuel ?logo=twitter&style=f
 
 
 
-<!-- <a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
+ <a href="https://www.github.com/yhoungdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yhoungdev?logo=github&style=for-the-badge&color=22c55e&labelColor=181824" /></a><a href="https://www.twitch.tv/obiabo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/obiabo?logo=twitchsx&style=for-the-badge&color=22c55e&labelColor=181824&label=TWITCH+STATUS" /></a>
 
-></a></p> -->
+></a></p> 
 
 ### Badges
 
