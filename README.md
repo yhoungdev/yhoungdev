@@ -10,8 +10,7 @@ WHOAMI
 
 I make magic with code 🪄
 
-I Dable with 
-Javascript ( Next, React, Astro, Node, Express ), Typescript, Bash and Little of Rust 
+I Dable with Typescript , Bash and Rust 
 
 
 
