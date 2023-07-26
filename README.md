@@ -10,7 +10,9 @@ WHOAMI
 
 I make magic with code 🪄
 
-I Dable with Typescript , Bash and Rust 
+I Dable with Typescript , Bash and Rust
+
+Writing applications for Open Source 
 
 
 
