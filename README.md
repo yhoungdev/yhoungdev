@@ -14,6 +14,16 @@ I Dable with Typescript , Bash and Rust
 
 Writing applications for Open Source 
 
+<div style='display: flex'>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width='30'/>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='30' />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width='30' />
+          
+          
+      
+</div>
 
 
 #### NOSTR PUBKEY 🔑
