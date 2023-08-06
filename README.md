@@ -10,6 +10,8 @@ Hey 👋, I'm Obiabo!
 - Diving into systems engineering and distributed system
 - Making the world a better place through Open Source
 - Experiementing with things concerning AI ( Langchain , Gorilla , Huggy Face )
+
+  #### 💼 I am currenly looking for a Frontend Developer Role 
   
 
 ## Connect with me  
