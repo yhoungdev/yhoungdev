@@ -11,7 +11,7 @@ Hey 👋, I'm Obiabo!
 - Making the world a better place through Open Source 🌎
 - Experiementing with things concerning AI ( Langchain , Gorilla , Huggy Face ) 💻
 
-  #### 💼 I am currenly looking for a Frontend Developer Role 
+  #### 💼 I am currenly looking for new oppurtunities ( Frontend / Backend ) 
   
 
 ## Connect with me  
