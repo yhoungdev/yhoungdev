@@ -4,12 +4,12 @@
 ### Whoami  
 Hey 👋, I'm Obiabo!
 
-- I write applications for the web
-- I create developers tools
-- I create extensions ( Chrome , Figma )
-- Diving into systems engineering and distributed system
-- Making the world a better place through Open Source
-- Experiementing with things concerning AI ( Langchain , Gorilla , Huggy Face )
+- I can do anything i put my mind in 💪🏽
+- I create developers tools 🛠️
+- I create chrome extensions 🧩
+- Diving into systems engineering and distributed systems with RUST 🦀
+- Making the world a better place through Open Source 🌎
+- Experiementing with things concerning AI ( Langchain , Gorilla , Huggy Face ) 💻
 
   #### 💼 I am currenly looking for a Frontend Developer Role 
   
