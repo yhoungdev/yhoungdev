@@ -9,7 +9,7 @@ Hey 👋, I'm Obiabo!
 - I create chrome extensions 🧩
 - Diving into systems engineering and distributed systems with RUST 🦀
 - Making the world a better place through Open Source 🌎
-- 🛹 Skateboarding, gym vibes, and AI experimentation (Langchain, Gorilla, Huggy Face - you name it!) keep life exciting.
+- 🛹 Skateboarding, gym vibes
 
 📚 When I'm not crafting code, I'm indulging my inner physicist, diving into books and cosmic mysteries.
 
