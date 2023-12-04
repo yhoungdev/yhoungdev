@@ -11,7 +11,7 @@ Hey 👋, I'm Obiabo!
 
   #### 💼 I am currenly looking for new oppurtunities ( Frontend / Backend ) Role
 
-  PGP: B09043468C7DF4CEDE1FF2902D206B
+  PGP: B09043468C7DF4CEDE1FF2902D206B <br/>
   NpubKey: npub143zs0f3d2qurmdktxv9lwjej6wgfvqflsumer23jwa
 
 
