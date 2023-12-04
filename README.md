@@ -8,11 +8,11 @@ Hey 👋, I'm Obiabo!
 - I create chrome extensions 🧩
 - Diving into systems engineering and distributed systems with RUST 🦀
 - Making the world a better place through Open Source 🌎
-- 🛹 Skateboarding, gym vibes
-
-📚 When I'm not crafting code, I'm indulging my inner physicist, diving into books and cosmic mysteries.
 
   #### 💼 I am currenly looking for new oppurtunities ( Frontend / Backend ) Role
+
+  PGP: B09043468C7DF4CEDE1FF2902D206B
+  NpubKey: npub143zs0f3d2qurmdktxv9lwjej6wgfvqflsumer23jwa
 
 
   
