@@ -5,7 +5,6 @@
 Hey 👋, I'm Obiabo!
 
 - I can do anything i put my mind in 💪🏽
-- I create developers tools 🛠️
 - I create chrome extensions 🧩
 - Diving into systems engineering and distributed systems with RUST 🦀
 - Making the world a better place through Open Source 🌎
@@ -15,6 +14,8 @@ Hey 👋, I'm Obiabo!
 
   #### 💼 I am currenly looking for new oppurtunities ( Frontend / Backend ) Role
 
+
+  
   
   
 
