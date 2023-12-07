@@ -3,12 +3,7 @@
 
 ### Whoami  
 Hey 👋, I'm Obiabo!
-
-- I can do anything i put my mind in 💪🏽
-- I create chrome extensions 🧩
-- Diving into systems engineering and distributed systems with RUST 🦀
-- Making the world a better place through Open Source 🌎
-
+As long as the computer can understand, then i can write it. 
   #### 💼 I am currenly looking for new oppurtunities ( Frontend / Backend ) Role
 
   PGP: B09043468C7DF4CEDE1FF2902D206B <br/>
