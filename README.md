@@ -3,7 +3,16 @@
 
 ### Whoami  
 Hey 👋, I'm Obiabo!
-As long as the computer can understand, then i can write it. 
+A Fullstack engineer, I have a cat called `Celia` 
+
+* I research about Computers and Securities
+* Love to skate and Drum
+* Father of a Cat
+* I love Dogs
+* I captcha on the DW when am bored
+* Hosting Tor relay from my comfort zone
+  
+
   #### 💼 I am currenly looking for new oppurtunities ( Frontend / Backend ) Role
 
   PGP: B09043468C7DF4CEDE1FF2902D206B <br/>
