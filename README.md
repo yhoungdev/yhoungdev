@@ -29,3 +29,5 @@
 <p><a href="https://www.buymeacoffee.com/obiabo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="obiabo" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&locale=en" alt="yhoungdev" /></p>
+
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=312reff2odnnvxi4yb5alw5ysxn4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312reff2odnnvxi4yb5alw5ysxn4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>
