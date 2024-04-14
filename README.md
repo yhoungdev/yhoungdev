@@ -4,7 +4,7 @@
 
 - I have 2 Cats 🐱🐱 **Luna and Luno**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I cherish the wonders of nature — from the serene beauty of plants and animals to the captivating vistas that unfold before me, each offering a precious gift that fills my heart with joy.
 
 - 👨‍💻 All of my projects are available at [https://www.obiabo.xyz/](https://www.obiabo.xyz/)
 
