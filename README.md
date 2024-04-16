@@ -10,7 +10,13 @@
 
 - 📫 How to reach me **sudowhoami@duck.com**
 
-- ⚡ Fun fact **I savor the delights of Food 🍲🥘, relishing each flavorful bite, and find solace in the embrace of solitude.**
+- ⚡ Fun fact:  **I savor the delights of Food 🍲🥘, relishing each flavorful bite, and find solace in the embrace of solitude.**
+
+    We can talk about Linux , Open Source , Crypto and Cryptograhy.
+
+  if you have have Nice Cats 🐈, Dogs 🐶 and bunny 🐇   pictures, you can share with me 
+
+    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
