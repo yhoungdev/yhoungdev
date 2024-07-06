@@ -3,7 +3,8 @@
 
 
 - I have 2 Cats 🐱🐱 **Luna and Luno**
-
+- Currently Rust
+- Currently Building on Ton Network 
 - 🌱 I cherish the wonders of nature — from the serene beauty of plants and animals to the captivating vistas that unfold before me, each offering a precious gift that fills my heart with joy.
 
 - 👨‍💻 All of my projects are available at [https://www.obiabo.xyz/](https://www.obiabo.xyz/)
@@ -15,6 +16,8 @@
     We can talk about Linux , Open Source , Crypto and Cryptograhy.
 
   if you have have Nice Cats 🐈, Dogs 🐶 and bunny 🐇   pictures, you can share with me 
+
+** Open for React , ( NextJs ) , ReactNative and NodeJs ( NestJs ) Roles 
 
     
 
