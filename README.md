@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm yhoungdev</h1>
-<h3 align="center">A passionate about anything computer</h3>
+
+<h1 align="center">whoami</h1>
+<h1 align="center">Hi 👋, I'm Obiabo</h1>
 
 
-- Building applications on Solana 
+
+- Iterating and Building my thoughts 
 - 🌱 I cherish the wonders of nature — from the serene beauty of plants and animals to the captivating vistas that unfold before me, each offering a precious gift that fills my heart with joy.
 
-- 👨‍💻 All of my projects are available at [https://www.obiabo.xyz/](https://www.obiabo.xyz/)
 
-
-  if you have have Nice Cats 🐈, Dogs 🐶 and bunny 🐇   pictures, you can share with me 
-
-** Open for React , ( NextJs ) , ReactNative and NodeJs ( NestJs ) Roles, You can reach me through email: **sudowhoami@duck.com**   Telegram: **https://t.me/obiabo**
+** Open for React , ( NextJs ) , ReactNative and NodeJs ( NestJs ), Solana  Roles, You can reach me through email: **sudowhoami@duck.com**   Telegram: **https://t.me/obiabo**
 
     
 
@@ -30,6 +28,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/obiabo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="obiabo" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhoungdev&show_icons=true&locale=en" alt="yhoungdev" /></p>
 
 <div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=312reff2odnnvxi4yb5alw5ysxn4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=312reff2odnnvxi4yb5alw5ysxn4&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" /></div>
