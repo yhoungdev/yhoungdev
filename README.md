@@ -8,7 +8,9 @@
 - 🌱 I cherish the wonders of nature — from the serene beauty of plants and animals to the captivating vistas that unfold before me, each offering a precious gift that fills my heart with joy.
 
 
-** Open for React , ( NextJs ) , ReactNative and NodeJs ( NestJs ), Solana  Roles, You can reach me through email: **sudowhoami@duck.com**   Telegram: **https://t.me/obiabo**
+` Open for new opportunities.`
+
+You can reach me through email: **sudowhoami@duck.com**   Telegram: **https://t.me/obiabo**
 
     
 
