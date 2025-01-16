@@ -17,7 +17,7 @@ You can reach me through email: **sudowhoami@duck.com**   Telegram: **https://t.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/obiabo_immanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obiabo_immanuel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/obiabo-emmanuel-5a66371aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/obiabo-emmanuel-5a66371aa/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emmanuel-obiabo-5a66371aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/obiabo-emmanuel-5a66371aa/" height="30" width="40" /></a>
 <a href="https://discord.gg/obiabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="obiabo" height="30" width="40" /></a>
 </p>
 
