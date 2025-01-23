@@ -1,18 +1,4 @@
 
-<h1 align="center">whoami</h1>
-<h1 align="center">Hi 👋, I'm Obiabo</h1>
-
-
-
-- Iterating and Building my thoughts 
-- 🌱 I cherish the wonders of nature — from the serene beauty of plants and animals to the captivating vistas that unfold before me, each offering a precious gift that fills my heart with joy.
-
-
-` Open for new opportunities.`
-
-You can reach me through email: **sudowhoami@duck.com**   Telegram: **https://t.me/obiabo**
-
-    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
