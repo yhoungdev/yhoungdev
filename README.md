@@ -1,4 +1,7 @@
 
+🍌
+- Learning more about Systems engineering.
+- Reading more on the Linux Kernel and Operating system in general 
 
 ```Call me Tom Cruise—starring in my own Vanilla Sky, chasing dreams and dodging doubt. Want to keep the mission going?```
 
