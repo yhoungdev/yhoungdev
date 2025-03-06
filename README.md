@@ -1,6 +1,6 @@
 
 🍌
-- Write browser, web, mobile, and telegram applications.
+- Writing browser, web, mobile, and telegram applications.
 - Learning more about Systems engineering.
 - Reading more on the Linux Kernel and Operating system in general 
 
