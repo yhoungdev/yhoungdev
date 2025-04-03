@@ -7,10 +7,7 @@
 
 ``` I am open for new opportunities/work. 💼 ```
 
-<p><a href="https://www.buymeacoffee.com/obiabo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="obiabo" /></a></p><br><br>
-
-
-<a href="http://localhost:5173/profile?user=yhoungdev" target="_blank" rel="noopener noreferrer">
+<a href="https://www.potatoesqueezy.xyz/profile?user=yhoungdev" target="_blank" rel="noopener noreferrer">
         <img 
           src="https://coffee-major-wallaby-86.mypinata.cloud/ipfs/bafkreiaskbvndui55ycmqdu6ui6arfkhxmqgjvjcaw26myp4y76mmqtbyi" 
           width="350" 
@@ -19,4 +16,8 @@
           alt="Potatoe Squeezy - Support GitHub contributors with crypto | Product Hunt" 
         />
       </a>
-    
+<br/>
+
+<p><a href="https://www.buymeacoffee.com/obiabo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="obiabo" /></a></p><br><br>
+
+
