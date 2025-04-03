@@ -7,7 +7,7 @@
 
 ``` I am open for new opportunities/work. 💼 ```
 
-<a href="https://www.potatoesqueezy.xyz/profile?user=yhoungdev" target="_blank" rel="noopener noreferrer">
+<a href="https://www.potatoesqueezy.xyz/app/profile?user=yhoungdev" target="_blank" rel="noopener noreferrer">
         <img 
           src="https://coffee-major-wallaby-86.mypinata.cloud/ipfs/bafkreiaskbvndui55ycmqdu6ui6arfkhxmqgjvjcaw26myp4y76mmqtbyi" 
           width="350" 
