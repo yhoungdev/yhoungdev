@@ -1,11 +1,11 @@
 
-🍌
-- Writing browser, web, mobile, and telegram applications.
-- Learning more about Systems engineering.
-- Reading more on the Linux Kernel and Operating system in general 
+
+```typescript
+Eating Plantain 🍌 and Building Typescript and Rust 🦀 Applications
+```
 
 
-``` I am open for new opportunities/work. 💼 ```
+> I am open for new opportunities/work. 💼 
 
 <a href="https://www.potatoesqueezy.xyz/app/profile?user=yhoungdev" target="_blank" rel="noopener noreferrer">
         <img 
