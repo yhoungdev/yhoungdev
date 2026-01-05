@@ -11,4 +11,4 @@
 And I am open to new opportunities and roles. 
 ---
 
-Find more about me and my work at [obiabo.tech](https://www.obiabo.tech)
+Find more about me and my work at [obiabo.tech](https://www.obiabo.dev)
