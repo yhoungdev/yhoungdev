@@ -6,16 +6,9 @@
 
 ### Building Interesting Things
 
-#### [**Potato Squeezy** ](https://github.com/yhoungdev/potatoe-squeezy)  
-Crypto tipping for open-source contributors. Fast, secure, and hassle-free support for developers.  
-Currently on [Solana](https://solana.com/). [Stellar](https://stellar.org/)  support comming soon.
 
-#### [**Manifold SDK** ](https://github.com/yhoungdev/manifold)  
-A collection of Rust SDKs for popular services, built for convenience and reliability.
-
-#### [**Glimpse** ](https://github.com/yhoungdev/glimpse)  
-A lightweight Rust daemon for real-time system monitoring. Sends alerts to Telegram based on resource usage.
-
+> For now, I am writing and building the most unconventional and unthinkable thing you can think of. 
+And I am open to new opportunities and roles. 
 ---
 
 Find more about me and my work at [obiabo.tech](https://www.obiabo.tech)
